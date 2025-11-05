@@ -34,4 +34,4 @@ echo ""
 
 echo "Déploiement terminé. Redémarrez Tomcat si nécessaire."
 
-echo ""
+echo "LK"
