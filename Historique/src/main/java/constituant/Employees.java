@@ -112,9 +112,7 @@ public class Employees {
         return list;
     }
 
-    // ===================================================================
-    // FONCTION PRINCIPALE getEMP — version corrigée
-    // ===================================================================
+  
     public static List<Employees> getEMP(Date d) {
         List<Employees> empList = new ArrayList<>();
         List<Employees> filteredList = new ArrayList<>();
